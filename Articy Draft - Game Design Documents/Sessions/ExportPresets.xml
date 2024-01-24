@@ -1,0 +1,36 @@
+<ExportPresets LastType="DocxExport">
+  <Preset DisplayName="" Type="XlsxExport">
+    <ExportSettings Type="XlsxExport">
+      <Filename>C:\Users\EddiePrince\Desktop\Prologue.xlsx</Filename>
+      <TablePerGroup>1</TablePerGroup>
+      <GroupedBy>ObjectType</GroupedBy>
+      <SortedBy>DisplayName</SortedBy>
+      <WhichName>DisplayName</WhichName>
+      <FeatureOrder>Alphabetical</FeatureOrder>
+      <CollectStatistics>1</CollectStatistics>
+      <ExportMarkup>0</ExportMarkup>
+      <VariableOrder>Namespace</VariableOrder>
+      <ExportQueries>True</ExportQueries>
+      <PageSize>A4</PageSize>
+      <AutoOpenFile>1</AutoOpenFile>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="DocxExport">
+    <ExportSettings Type="DocxExport">
+      <Filename>C:\Users\EddiePrince\Desktop\Prologue.docx</Filename>
+      <PageSize>A4</PageSize>
+      <GroupedBy>Folder</GroupedBy>
+      <SortedBy>DisplayName</SortedBy>
+      <HyperlinkOnReferences>1</HyperlinkOnReferences>
+      <ExportMethod>Single</ExportMethod>
+      <IncludeImages>1</IncludeImages>
+      <SideBySideImages>0</SideBySideImages>
+      <InsertTableOfContents>1</InsertTableOfContents>
+      <IncludeTitlePage>1</IncludeTitlePage>
+      <IncludeTechnicalNames>0</IncludeTechnicalNames>
+      <ExportMarkup>1</ExportMarkup>
+      <AutoOpenFile>1</AutoOpenFile>
+      <ExportQueries>1</ExportQueries>
+    </ExportSettings>
+  </Preset>
+</ExportPresets>

@@ -1,0 +1,25 @@
+Free Educational Prototype Game License: 
+
+This license grants you the right to freely download this Github Repository, fork it, edit, distribute your own versions and 
+overwrite this license with other compatible licenses.
+
+All of the files present in this repository were legally acquired and authorized for distribution. 
+
+This repository contains files and assets under the Creative Commons 0 License which are under Public Domain. 
+Commercial distribution and modification of these assets without giving credits are allowed.
+
+This repository contains Unreal Engine related files, Blender related files and similar files which are ruled by their own specific Licenses, EULA's and Usage Terms.
+
+This custom license doesn't overwrite nor clashes against any of the other Licenses, EULA's and Usage Terms linked to Unreal Engine Files, Blender Files and other Proprietary Files that this repository might contain.
+
+The free distribution of this Github Repository doesn't violate any Licenses, EULA's, Usage Terms or Copyrights.
+
+Multiple files containing information about the different Licenses and Usage Terms that each file has, can be found in the folders of this repository.  
+
+If for any reason you acquired this project without any information regarding the Licenses, Usage Terms, Files Source of Origin and Credits, inquiry the entities that distributed this project for you and avoid further usage and distribution without proper information.
+
+It's your responsibility to investigate the Terms of Usage, Modification and Distribution of each of the files in this project.
+
+The authors of this github repository are legally allowed to publicly share the files of this project and bear no responsibility for possible misuse of the files by third parties.
+
+For inquiries, contact the original authors of each file.
